@@ -125,7 +125,7 @@ include_directories(
 # include
   ${catkin_INCLUDE_DIRS}
   ${OpenCV_INCLUDE_DIRS}
-  /usr/include/opencv4
+  /usr/include/opencv2
 )
 
 ## Declare a C++ library
